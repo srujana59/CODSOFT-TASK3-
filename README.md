@@ -1,5 +1,5 @@
 # CODSOFT-TASK3-
-TASK-3(CALCULATOR)
+TASK-3(CALCULATOR) #CodSoft
 🧮 Calculator Application
 This Calculator Application was developed as part of my CodSoft Internship project. It provides a user-friendly interface to perform basic arithmetic operations quickly and efficiently. 🚀
 
