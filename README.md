@@ -13,6 +13,7 @@ This Calculator Application was developed as part of my CodSoft Internship proje
 ⚙️ Tech Stack Used:
 HTML5 for structure
 CSS for styling
+java script
 
 🚀 How to Use:
 Enter numbers using the on-screen keypad or keyboard.
